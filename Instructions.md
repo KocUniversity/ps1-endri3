@@ -44,11 +44,11 @@ Then, we need to find the minium value such that
 
 So, in this case, if he studies only one hour, `T = 1`:
 
-`(2^3) * 1 + (3^2) * 1 + (5^1) * 1 + (7^0) * 1 = 118` 
+`(4^3) * 1 + (3^2) * 1 + (28^1) * 1 + (17^0) * 1 = 118` 
 
 which is smaller than `B = 222` value. So, we try `T = 2` hours:
 
-`(2^3) * 2 + (3^2) * 2 + (5^1) * 2 + (7^0) * 2 = 236` 
+`(4^3) * 2 + (5^2) * 2 + (28^1) * 2 + (17^0) * 2 = 236` 
 
 which is the minimum `T` that satisfies the equation.
 
